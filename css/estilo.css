@@ -64,6 +64,13 @@ body {
 	background: #CCC;
 }
 
+#redes {
+	clear: both;
+	text-align: center;
+	padding: 15px;
+	background: #CCC;
+}
+
 /*
 **** Formatação do menu ****
 */
